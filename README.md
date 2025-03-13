@@ -35,7 +35,7 @@ You will need:
 
 ## Create a Machine Image
 
-1. Use VirtualBox or some other virtualisation software to create a new virtual machine. Make sure the disk image is at least **20GiB** in size and that you choose a **vhd** format for the disk.
+1. Use VirtualBox or some other virtualisation software to create a new virtual machine. Normally we would recommend that you keep the disk image size at least **20GiB** but please also factor in updates and also any additional software you may need. For A Windows 10 Pro PC in the cloud with Office 365, we recommend at least **65GiB** in size and make sure you choose a **vhd** format for the disk.
 
 ![VHD](https://raw.githubusercontent.com/keithvassallomt/windows10-ec2/main/images/vhd.png)
 
