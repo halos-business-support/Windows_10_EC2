@@ -1,5 +1,8 @@
 Windows 10 on AWS EC2
 =====================
+Welcome to the Halos Business Support repository. Many thanks to Keith Vassallo and Peter Forgacs for their original guide. 
+We shall be testing and updating this guide as necessary for 2025 and also adding a "beast mode" with minimal user input shortly. 
+
 
 | Info        | Value           |
 | ------------- |:-------------|
